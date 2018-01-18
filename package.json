@@ -1,5 +1,5 @@
 {
-  "name": "NativeInput",
+  "name": "cordova-plugin-native-input",
   "version": "0.0.1",
   "description": "",
   "scripts": {
