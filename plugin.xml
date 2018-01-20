@@ -13,5 +13,4 @@
         <source-file src="src/osx/NativeInput.swift" />
         <header-file src="src/osx/NativeInput-Bridging-Header.h" />
     </platform>
-    <dependency id="cordova-plugin-add-swift-support" version="1.5.0"/>
 </plugin>
